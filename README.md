@@ -1,7 +1,8 @@
 <h1>Hi, I'm Kosta! <br/><a href="https://www.linkedin.com/in/cyberkosta/">Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>Example</b>
+- <b>Wazuh SIEM and XDR home deployment</b>
+
   - [SIEM](https://github.com/wobomagondarr/siemwazuh)
   
 <!--
