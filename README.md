@@ -4,6 +4,10 @@
 - <b>Wazuh SIEM and XDR home deployment</b>
 
   - [SIEM](https://github.com/wobomagondarr/siemwazuh)
+
+- <b>BTC node, air-gapped transaction, LN</b>
+
+  - [SIEM](https://github.com/wobomagondarr/btc)
   
 <!--
 **wobomagondarr/wobomagondarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
