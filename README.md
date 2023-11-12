@@ -10,7 +10,7 @@
 
 - [BTC](https://github.com/wobomagondarr/btc)
 
-<b>Ceasar Cipher with Python</b>
+<b>GUI Ceasar Cipher with Python</b>
 
 - [Cipher](https://github.com/wobomagondarr/ccipher)
   
